@@ -1,0 +1,2 @@
+D ng/com/piccmaq/flutter/flutter_mobile_vision_2/ui/CameraSource$FlashMode
+D ng/com/piccmaq/flutter/flutter_mobile_vision_2/ui/CameraSource$FocusMode

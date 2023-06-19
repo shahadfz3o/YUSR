@@ -1,0 +1,33 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/sfz/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_mobile_vision_2-0.1.15/android/src/main/AndroidManifest.xml:1:1-5:12
+INJECTED from /Users/sfz/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_mobile_vision_2-0.1.15/android/src/main/AndroidManifest.xml:1:1-5:12
+INJECTED from /Users/sfz/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_mobile_vision_2-0.1.15/android/src/main/AndroidManifest.xml:1:1-5:12
+	package
+		ADDED from /Users/sfz/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_mobile_vision_2-0.1.15/android/src/main/AndroidManifest.xml:2:3-59
+		INJECTED from /Users/sfz/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_mobile_vision_2-0.1.15/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/sfz/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_mobile_vision_2-0.1.15/android/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/sfz/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_mobile_vision_2-0.1.15/android/src/main/AndroidManifest.xml:1:11-69
+uses-feature#android.hardware.camera
+ADDED from /Users/sfz/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_mobile_vision_2-0.1.15/android/src/main/AndroidManifest.xml:3:3-58
+	android:name
+		ADDED from /Users/sfz/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_mobile_vision_2-0.1.15/android/src/main/AndroidManifest.xml:3:17-55
+uses-permission#android.permission.CAMERA
+ADDED from /Users/sfz/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_mobile_vision_2-0.1.15/android/src/main/AndroidManifest.xml:4:3-63
+	android:name
+		ADDED from /Users/sfz/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_mobile_vision_2-0.1.15/android/src/main/AndroidManifest.xml:4:20-60
+uses-sdk
+INJECTED from /Users/sfz/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_mobile_vision_2-0.1.15/android/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/sfz/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_mobile_vision_2-0.1.15/android/src/main/AndroidManifest.xml
+INJECTED from /Users/sfz/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_mobile_vision_2-0.1.15/android/src/main/AndroidManifest.xml
+INJECTED from /Users/sfz/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_mobile_vision_2-0.1.15/android/src/main/AndroidManifest.xml
+INJECTED from /Users/sfz/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_mobile_vision_2-0.1.15/android/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/sfz/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_mobile_vision_2-0.1.15/android/src/main/AndroidManifest.xml
+		ADDED from /Users/sfz/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_mobile_vision_2-0.1.15/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/sfz/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_mobile_vision_2-0.1.15/android/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/sfz/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_mobile_vision_2-0.1.15/android/src/main/AndroidManifest.xml
+		ADDED from /Users/sfz/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_mobile_vision_2-0.1.15/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/sfz/Developer/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_mobile_vision_2-0.1.15/android/src/main/AndroidManifest.xml
